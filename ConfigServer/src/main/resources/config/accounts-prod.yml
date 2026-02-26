@@ -1,0 +1,11 @@
+build:
+  version: 1.6.45
+
+accounts:
+  message: "Welcome to  accounts related PROD APIs"
+  contactDetails:
+    name: "Sandeep Bolla - Product owner"
+    email: "sabolla@HDFC2.com"
+  onCallSupport:
+    - (555) 555-4563
+    - (555) 523-4525

@@ -1,0 +1,11 @@
+build:
+  version: 1.23.4
+
+cards:
+  message: "Welcome to bank cards related QA APIs "
+  contactDetails:
+    name: "Jessy pinkman - QA Lead"
+    email: "JPinkman@mybank.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267

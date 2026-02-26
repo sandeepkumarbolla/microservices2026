@@ -1,0 +1,11 @@
+build:
+  version: 1.23.4d
+
+cards:
+  message: "Welcome to my bank cards related prod APIs "
+  contactDetails:
+    name: "Walter white - Product Owner"
+    email: "WW@mybank.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721

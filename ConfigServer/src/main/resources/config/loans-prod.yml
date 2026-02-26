@@ -1,0 +1,11 @@
+build:
+  version: "1.506.6"
+
+loans:
+  message: "Welcome to my Bank loans related prod APIs "
+  contactDetails:
+    name: "Tuco Salamanca - Product Owner"
+    email: "tucos@mybank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956

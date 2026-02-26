@@ -1,0 +1,11 @@
+build:
+  version: 3.5.92
+
+accounts:
+  message: "Welcome to  accounts related QA APIs"
+  contactDetails:
+    name: "John Doe - QA"
+    email: "john@HDFC.com"
+  onCallSupport:
+    - (555) 555-4563
+    - (555) 523-4525
